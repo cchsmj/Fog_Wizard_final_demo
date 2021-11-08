@@ -1,0 +1,48 @@
+{
+  "files": {
+    "Game/main.py": [
+      {
+        "id": "fe56ce2a-4cd0-4321-b7d7-f59cbe1a00f4",
+        "line": 73,
+        "version": 762,
+        "index": 2442
+      }
+    ],
+    "Wonders/functions.py": [
+      {
+        "id": "bd8d7fbd-b101-4f02-973c-ac049272c1bc",
+        "line": 88,
+        "version": 2752,
+        "index": 2350
+      }
+    ],
+    "functions.py": [
+      {
+        "id": "45f6ab01-5695-4f67-bb34-972c484b8251",
+        "line": 1,
+        "version": 3077,
+        "index": 0
+      },
+      {
+        "id": "f505dea1-f4a4-4b59-9d96-b05b844457f4",
+        "line": 1,
+        "version": 3077,
+        "index": 0
+      }
+    ],
+    "main.py": [
+      {
+        "id": "12ae6215-36d8-4879-b5a7-e06742b787ec",
+        "line": 16,
+        "version": 4345,
+        "index": 350
+      },
+      {
+        "id": "54990e71-4100-4b35-a71a-56d9ec5b3292",
+        "line": 70,
+        "version": 4345,
+        "index": 2113
+      }
+    ]
+  }
+}
